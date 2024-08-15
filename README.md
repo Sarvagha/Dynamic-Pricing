@@ -7,7 +7,7 @@ A ride-sharing company wants to implement a dynamic pricing strategy to optimize
 
 ### Goal
 
-Our goal is to build a dynamic pricing model that incorporates the provided features to predict optimal fares for rides in real-time. The model must consider factors such as demand patterns and supply availability.
+Our goal is to build a dynamic pricing model that incorporates the provided features to predict optimal fares for rides in real-time using python. The model must consider factors such as demand patterns and supply availability.
 
 ### Dataset 
 
