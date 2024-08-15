@@ -1,1 +1,1 @@
-"# Dynamic-Pricing" 
+# Dynamic-Pricing
